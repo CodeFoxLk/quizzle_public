@@ -1,0 +1,108 @@
+{
+    "id": "ppr002",
+    "title": "Chemistry",
+    "image_url": "",
+    "Description": "Basic Chemistry Multiple Choice Questions (MCQ) to practice basic Chemistry quiz answers",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr002q001",
+            "question": "What is the chemical symbol for carbon?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "C"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Ca"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Cn"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Crn"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q002",
+            "question": "Molecules bonded together make up atoms.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "True"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "False"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q003",
+            "question": "When we combined vinegar and baking soda and created carbon dioxide what was the product?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "vinegar"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "carbon dioxide and baking soda"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "carbon dioxide"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "vinegar and baking soda"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q004",
+            "question": "which of the following is a unit of eletric current:",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "ohm"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "volt"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "watt"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "amp"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr002q005",
+            "question": "In a chemical reaction or change a new substance is not created.?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "true"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "false"
+                }
+            ],
+            "correct_answer": "B"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "id": "ppr004",
+    "title": "Biology",
+    "image_url": "",
+    "Description": "Basic Biology Multiple Choice Questions (MCQ) to practice basic Biology quiz answers",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "ppr004q001",
+            "question": "A relationship in which one animal hunts, kills and eats another",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Symbiosis"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Mutualism"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Parasitism"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Predation"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr004q002",
+            "question": "The animal that is hunted and killed for food.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Decomposer"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Predator"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Scavenger"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Prey"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr004q003",
+            "question": "A close relationship between two different species of organisms living together.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Mutualism"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Symbiosis"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Competition"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Commensialism"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr004q004",
+            "question": "A symbiotic relationship in which both species benefit.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Mutualism"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Commensialism"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Parasitism"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Predation"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr004q005",
+            "question": "Which organelle is found in most plants, some bacteria and some protists?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "ribosomes"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "mitochondria"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "endoplasmic reticulum"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "chloroplasts"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}
