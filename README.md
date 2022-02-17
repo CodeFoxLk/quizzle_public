@@ -12,8 +12,8 @@ This is free code for a flutter quiz app. all you need is just set up firebase f
 
 
 
-###The speed firebase setup video.
-
+### The speed firebase setup video.
+https://youtu.be/bMTrKMcJW6k
 
 ### The firebase setup documentation
 https://docs.google.com/document/d/1IDeTYJK--xBgjc_8qMtYTwvS6WUrxHsm_moqMl3nygs/edit?usp=sharing
