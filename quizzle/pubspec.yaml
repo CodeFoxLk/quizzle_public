@@ -9,7 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_svg: ^1.0.0
-  get: ^4.6.1
+  get: ^4.6.5
   logger: ^1.0.0
   easy_separator: ^1.0.1
   blurhash_flutter: ^0.1.0

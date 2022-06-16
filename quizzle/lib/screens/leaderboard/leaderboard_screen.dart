@@ -9,7 +9,7 @@ import 'package:quizzle/widgets/widgets.dart';
 
 class LeaderBoardScreen extends GetView<LeaderBoardController> {
   LeaderBoardScreen({Key? key}) : super(key: key) {
-    SchedulerBinding.instance!.addPostFrameCallback((d) {
+    SchedulerBinding.instance.addPostFrameCallback((d) {
       final paper = Get.arguments as QuizPaperModel;
       controller.getAll(paper.id);
       controller.getMyScores(paper.id);
